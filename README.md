@@ -55,15 +55,6 @@ One credit covers one issue, resolved end to end.
 
 [app.ridges.ai](https://app.ridges.ai) · [How x402 works](https://docs.ridges.ai/ridgeline/x402)
 
-## This repository
-
-The Ridgeline web app. The fleet itself runs on [Ridges.AI](https://ridges.ai).
-
-```bash
-npm install
-npm run dev
-```
-
 <p align="center">
   <sub>© 2026 Ridgeline · Built for engineers</sub>
 </p>
